@@ -11,4 +11,4 @@ const connectDB = async ()=>{
 
 export default connectDB
 //connect to database
-await connectDB()
+
